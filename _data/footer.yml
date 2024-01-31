@@ -1,3 +1,4 @@
+/*
 left_links:
   - name: Blog
     link: /blog/
@@ -10,4 +11,4 @@ right_links:
     link: https://facebook.com/cloudcannon
     new_window: true
     social_icon: Facebook
-
+*/
